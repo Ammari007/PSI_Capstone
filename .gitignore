@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.coverage
+.DS_Store
+.idea/
+.vscode/
+data/triaged_tickets.csv
+data/category_report.csv
+data/priority_chart.png

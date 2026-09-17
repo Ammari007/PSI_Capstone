@@ -1,0 +1,11 @@
+ticket_id,title,description,reporter,category,severity,created_at,status,assignee,priority,score,history
+TCK-0001,Checkout service outage,Production checkout is down and customers cannot pay,maya@corp.example,software,5,2026-09-16T08:12:00+00:00,new,,,,
+TCK-0002,Printer jams on floor 3,The shared printer jams every few pages,omar@corp.example,hardware,2,2026-09-14T09:40:00+00:00,new,,,,
+TCK-0003,Suspicious login attempts,Possible breach - repeated failed logins from an unknown IP,sec-bot@corp.example,security,4,2026-09-17T01:05:00+00:00,new,,,,
+TCK-0004,Typo on the pricing page,Cosmetic typo in the footer text,lina@corp.example,software,1,2026-09-10T15:30:00+00:00,new,,,,
+TCK-0005,VPN is slow for remote staff,Network throughput dropped sharply since Monday,dev-team@corp.example,network,3,2026-09-15T11:00:00+00:00,new,,,,
+TCK-0006,Duplicate invoice charged,Customer billed twice for the same payment,fatima@corp.example,billing,3,2026-09-16T17:45:00+00:00,new,,,,
+TCK-0007,Laptop will not boot,Machine stuck on the vendor logo after an update,sami@corp.example,hardware,4,2026-09-13T07:20:00+00:00,new,,,,
+TCK-0008,Cannot login to the CRM,Users cannot login after the SSO change,helpdesk@corp.example,software,4,2026-09-17T06:00:00+00:00,new,,,,
+TCK-0009,Meeting room screen flickers,Minor flicker during presentations,rana@corp.example,other,2,2026-09-11T13:15:00+00:00,new,,,,
+TCK-0010,Data loss in nightly backup,Last night's backup job reported data loss,ops@corp.example,security,5,2026-09-17T03:30:00+00:00,new,,,,
